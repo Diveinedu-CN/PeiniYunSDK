@@ -391,8 +391,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/陪你云Demo",
-					"/Users/apple/Desktop/陪你云SDK/陪你云SDK",
-					"/Users/apple/Desktop/陪你云SDK/PeiniYunSDK",
+					"$(SRCROOT)/../PeiniYunSDK",
 				);
 				INFOPLIST_FILE = "陪你云Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -408,8 +407,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/陪你云Demo",
-					"/Users/apple/Desktop/陪你云SDK/陪你云SDK",
-					"/Users/apple/Desktop/陪你云SDK/PeiniYunSDK",
+					"$(SRCROOT)/../PeiniYunSDK",
 				);
 				INFOPLIST_FILE = "陪你云Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
